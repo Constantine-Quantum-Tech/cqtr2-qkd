@@ -16,14 +16,14 @@ To ensure you have all the necessary tools and packages installed, please follow
 ### Using Conda
 To create the environment with all required dependencies, run:
 ```bash
-conda env create -f cqtr2.yml
+conda env create -f cqtr-2.yml
 ```
 
 ### Directly from PyPi
 Alternatively, you can install the necessary packages directly using pip:
 
 ```bash
-pip install qiskit[visualization] qiskit-aer qiskit-ibm-runtime --upgrade
+pip install 'qiskit[visualization]' qiskit-aer qiskit-ibm-runtime --upgrade
 ```
 
 ### Check Installation
