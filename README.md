@@ -17,6 +17,7 @@ To ensure you have all the necessary tools and packages installed, please follow
 To create the environment with all required dependencies, run:
 ```bash
 conda env create -f cqtr-2.yml
+conda activate cqtr2
 ```
 
 ### Directly from PyPi
