@@ -17,9 +17,9 @@ Welcome to the second edition of the CQTraining workshop! We are excited to have
     - [Using Conda](#using-conda)
     - [Directly from PyPi](#directly-from-pypi)
     - [Check Installation](#check-installation)
-  - [Introduction]
-  - [Tasks]
-  - [Notes]
+  - [Introduction](#Introduction)
+  - [Tasks](#Tasks)
+  - [Notes](#Notes)
 
 ## Installation
 
